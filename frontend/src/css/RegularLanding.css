@@ -1,0 +1,29 @@
+.logo {
+    width: 150px;
+    height: 150px;
+    margin-right: 20px;
+  }
+  
+.titulo {
+    font-size: 2em;
+    margin-top: 1em;
+    color: white !important;
+}
+
+.descripcion {
+    margin-top: 1em; 
+    color: white !important;
+}
+
+.columnaDerecha {
+    justify-content: center;
+    height: 100%;    
+}
+
+.landing{
+    margin-top: 20px;
+}
+
+.ant-layout{
+    background-color: transparent;
+}
